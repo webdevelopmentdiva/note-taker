@@ -1,2 +1,3 @@
 # note-taker
-Architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
+
+Application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
